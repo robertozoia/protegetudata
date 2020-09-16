@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Protege tu Data</title>
+    <link>https://protegetudataa.com/</link>
+    <description>Recent content on Protege tu Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 17:31:25 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2020 17:31:25 -0500</lastBuildDate><atom:link href="https://protegetudataa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://example.org/post/first-post/</link>
+      <link>https://protegetudataa.com/post/first-post/</link>
       <pubDate>Wed, 16 Sep 2020 17:31:25 -0500</pubDate>
       
-      <guid>http://example.org/post/first-post/</guid>
+      <guid>https://protegetudataa.com/post/first-post/</guid>
       <description>Sample post</description>
     </item>
     
