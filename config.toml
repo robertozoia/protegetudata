@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
-googleAnalyitics = ""
+googleAnalyitics = "UA-133826136-2"
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
