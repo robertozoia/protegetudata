@@ -31,7 +31,7 @@ Aunque no usemos contarseñas como *123456*, quizá sí estemos usando una palab
 
 ## Tres cosas que deberíamos hacer
 
-La primera medida de seguridad que podemos tomar es usar una contraseña tan larga como podamos, lo más aleatoria que podamos, y que combiene letras mayúsculas, minúsculas, números y símbolos. Si el servicio en cuestión acepta contraseñas de 64 caracteres, usemos 64 en vez de 12. Con eso ponemos una barrera importante entre nosotros y los atacantes, que se conformarán con escoger víctimas con contraseñas más sencillas de romper.
+La primera medida de seguridad que podemos tomar es usar una contraseña tan larga como podamos, lo más aleatoria que podamos, y que combine letras mayúsculas, minúsculas, números y símbolos. Si el servicio en cuestión acepta contraseñas de 64 caracteres, usemos 64 en vez de 12. Con eso ponemos una barrera importante entre nosotros y los atacantes, que se conformarán con escoger víctimas con contraseñas más sencillas de romper.
 
 La segunda medida importante es usar contraseñas distintas para servicios distintos. Si un ladrón robara la llave de la casa y nuestra dirección, lo primero que haríamos sería cambiar la cerradura. Si además esa llave abriera la puerta de nuestro auto, de nuestra oficina, y la casa de otros familiares, entonces estaríamos en verdaderos problemas.
 
@@ -44,4 +44,4 @@ Si mucha gente usa contraseñas triviales y la misma contraseña para varios ser
 
 La tercera medida de seguridad es utilizar un manejador de contraseñas (password manager). Se trata de una aplicación que almacena nuestros usuarios y contraseñas, y los protege con una contraseña única. Así, solo tenemos que recordar _esa_ contraseña. Hay muchos buenos _password managers_ disponibles, como [1Password](https://1password.com) o [LastPass](https://lastpass.com). Estos programas ofrecen extensiones para el navegador, permiten generar contraseñas aleatorias (mi longitud actual cuando el servicio lo permite es 64 caracteres), e incluso incorporan un generador de tokens asociado a la cuenta. Cuando un servico que usamos sufre una brecha de seguridad, el manejador de contraseñas nos alerta, cambiamos la contraseña, y volvemos a estar del lado seguro.
 
-En conclusión, usar una contraseña segura es un paso clae para asegurar nuestra presencia online. Otro paso es usar un token como segundo factor de autenticación para nuestras cuentas. Pero eso lo dejaremos para otro artículo.
+En conclusión, usar una contraseña segura es un paso clave para asegurar nuestra presencia online. Otro paso es usar un token como segundo factor de autenticación para nuestras cuentas. Pero eso lo dejaremos para otro artículo.
