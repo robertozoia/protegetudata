@@ -2,6 +2,7 @@
 title: "Tres medidas urgentes para proteger nuestras cuentas online"
 date: 2020-10-19
 draft: false
+featured_image: '/media/2020/safe-lock.jpg'
 ---
 
 Un elemento importantes para la seguridad de nuestras cuentas online son las contraseñas. En abril de 2019, Scientific American publicó un excelente artíciulo titulado [The Mathematics of (Hacking) Passwords](https://www.scientificamerican.com/article/the-mathematics-of-hacking-passwords/), en el que el autor intenta explicar cómo se relacionan la longitud y complejidad de nuestra contraseña y la seguridad de nuestras cuentas.
