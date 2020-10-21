@@ -33,7 +33,7 @@ Aunque no usemos contarseñas como *123456*, quizá sí estemos usando una palab
 
 La primera medida de seguridad que podemos tomar es usar una contraseña tan larga como podamos, lo más aleatoria que podamos, y que combiene letras mayúsculas, minúsculas, números y símbolos. Si el servicio en cuestión acepta contraseñas de 64 caracteres, usemos 64 en vez de 12. Con eso ponemos una barrera importante entre nosotros y los atacantes, que se conformarán con escoger víctimas con contraseñas más sencillas de romper.
 
-La segunda medida importante es usar contraseñas distinta para servicios distintos. Si un ladrón robara la llave de la casa y nuestra dirección, lo primero que haríamos sería cambiar la cerradura. Si además esa llave abre la puerta de nuestro auto, de nuestra oficina, y la casa de otros familiares, estamos en verdaderos problemas.
+La segunda medida importante es usar contraseñas distintas para servicios distintos. Si un ladrón robara la llave de la casa y nuestra dirección, lo primero que haríamos sería cambiar la cerradura. Si además esa llave abre la puerta de nuestro auto, de nuestra oficina, y la casa de otros familiares, estamos en verdaderos problemas.
 
 Si usamos el mismo usuario y contraseña en varios servicios, basta que roben información de uno de esos servicios par que puedan comprometer nuestras cuentas en todos los servicios en los que usamos esa contraseña. Y no nos engañemos: todos los principales servicios (Facebook, LinkedIn, Microsoft, Google, etc.) han sufrido robos de información importantes.
 
