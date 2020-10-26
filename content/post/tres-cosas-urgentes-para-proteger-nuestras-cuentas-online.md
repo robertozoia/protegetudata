@@ -11,7 +11,7 @@ Por ejemplo, si escogemos un password de 6 letras minúsculas, hay 26 posibilida
 
 Si en cambio usamos un password de 12 caracteres, e incluimos no solo letras minúsculas sino también mayúsculas, dígitos y símbolos (!, @, &, etc.), el aumento en la complejidad de encontrar la contraseña para un posible atacante aumenta significativamente con respecto a la contraseña de 6 caracteres. Ahora tenemos 72 posibilidades para cada caracter. El tamaño del espacio sería de  72<sup>12</sup> o 19,408,409,961,765,342,806,016, un número cercano a 19 seguido de 21 ceros.
 
-La contraseña de 6 caracteres se puede romper hoy en menos de 1 hora. Pero tendrán que pasar al menos unos 29 años para que la tecnología nos permita romper la contraseña de 26 caracteres en menos de 1 hora.[^moore]
+La contraseña de 6 caracteres se puede romper hoy en menos de 1 hora. Pero tendrán que pasar al menos unos 29 años para que la tecnología nos permita romper la contraseña de 12 caracteres en menos de 1 hora.[^moore]
 
 [^moore]: Esto suponiendo que no habrá un descubrimiento tecnológico significativo como computación cuántica practicable, o un descubrimiento matemático importante que permita romper el cifrado de modo más eficiente. El artículo mencionado arribna presenta una fórmula que usa la Ley de Moore para estimar la capacidad de procesamiento disponible en determinado año. La Ley de Moore es una ley empírica que dice que la capacidad de procesamiento disponible a precio constante se duplica cada 18 meses.
 
